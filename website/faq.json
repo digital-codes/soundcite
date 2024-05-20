@@ -1,8 +1,13 @@
 [
   {
-      "slug": "can-i-use-with-wordpress",
-      "question": "Can I use SoundCite with WordPress?",
-      "answer": "<p>Yes! We now have <a href=\"https://wordpress.org/plugins/knight-lab-soundcite/\">a WordPress plugin</a> which makes using Soundcite as easy as we can make it. Once it's installed, just copy and paste your clips from step 2 above -- be sure to paste them into the 'text' pane (where you edit HTML source code), not the 'visual' pane. With the WordPress plugin, you can skip step 3."
+    "slug": "can-i-use-with-wordpress",
+    "question": "Can I use SoundCite with WordPress?",
+    "answer": "<p>Yes! We now have <a href=\"https://wordpress.org/plugins/knight-lab-soundcite/\">a WordPress plugin</a> which makes using Soundcite as easy as we can make it. Once it's installed, just copy and paste your clips from step 2 above -- be sure to paste them into the 'text' pane (where you edit HTML source code), not the 'visual' pane. With the WordPress plugin, you can skip step 3."
+  },
+  {
+    "slug": "can-i-use-with-drupal",
+    "question": "Can I use SoundCite with Drupal?",
+    "answer": "<p>A community mamber has created  <a href=\"https://www.drupal.org/project/soundcite/\">a Drupal editor plugin</a> which takes the place of our website to create soundcite players. We don't use Drupal, so we haven't had a chance to try it out, but we're listing it here in case it's helpful."
   },
   {
     "slug": "customize-appearance",
